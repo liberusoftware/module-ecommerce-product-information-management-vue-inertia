@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-product-information-management-vue-inertia",
+  "capabilityKey": "planned:ecommerce:product-information-management",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-ecommerce-product-information-management-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/ecommerce/nextjs/product-information-management.md",
+  "presentationPlan": "projects/ecommerce/vue/product-information-management.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
